@@ -1,4 +1,4 @@
-# 📊 Trade Raider – Project Overview
+# 📊 Stock Sage – Project Overview
 **Vision**  
 Empower retail investors to discover promising equities, understand the “why” behind each pick, and experiment with risk-free paper-trading—all within a polished Flask + React web experience powered by Gemini AI.
 
@@ -72,4 +72,4 @@ Edit
 | Q2 2025 | MVP launch (auth, AI picks, sandbox) |
 | Q3 2025 | Back-testing + custom look-back |
 | Q4 2025 | Leaderboards, social sharing |
-| 2026+ | Broker integration (opt-in, regulatory) |
+| 2026+   | Broker integration (opt-in, regulatory) |
