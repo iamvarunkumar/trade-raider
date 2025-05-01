@@ -1,4 +1,4 @@
-# Trader-Raider
+# Trade-Raider
 # 🐍📈 Stock Sage – Flask + React Paper-Trading & AI Insight Platform
 
 Stock Sage is a full-stack web application that helps retail investors **discover, understand, and safely paper-trade** promising equities.  
