@@ -24,9 +24,9 @@ Stock Sage provides:
 ## 3 ▪ Personas
 | Persona | Pain Points | How Stock Sage Helps |
 |---------|-------------|----------------------|
-| Novice Investor “Nina” | Overwhelmed by jargon | TL;DR & guided sandbox |
-| Busy Professional “Raj”| No time to research | AI summaries + alerts |
-| Data-Geek “Liam” | Wants transparency | Full rationale + raw metrics |
+| Novice Investor| Overwhelmed by jargon | TL;DR & guided sandbox |
+| Busy Professional| No time to research | AI summaries + alerts |
+| Data-Geek| Wants transparency | Full rationale + raw metrics |
 
 ---
 
