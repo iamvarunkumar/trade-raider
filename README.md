@@ -49,3 +49,35 @@ flask --app api run
 cd frontend
 pnpm install
 pnpm dev
+
+# == Core ==
+Flask~=3.0.2          # lightweight web framework
+Flask-CORS~=4.0.0     # CORS headers
+SQLAlchemy~=2.0.30    # ORM
+psycopg[binary]~=3.1  # PostgreSQL driver
+
+# == Auth & Security ==
+flask-jwt-extended~=4.6
+passlib[bcrypt]~=1.7
+
+# == AI & ML ==
+google-generativeai~=0.4.0   # Gemini Pro client
+pandas~=2.2
+scikit-learn~=1.4
+prophet~=1.2                 # time-series baseline (requires pystan)
+
+# == Market Data ==
+yfinance~=0.2
+ccxt~=4.2          # optional multi-exchange quotes
+
+# == Utilities ==
+python-dotenv~=1.0
+pydantic~=2.7      # request/response schemas
+gunicorn~=22.0     # prod WSGI server
+alembic~=1.13      # migrations
+
+# == Dev/Test ==
+pytest~=8.2
+pytest-cov~=5.0
+black~=24.4
+isort~=5.13
