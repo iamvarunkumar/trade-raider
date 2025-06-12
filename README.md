@@ -1,6 +1,6 @@
 # 🐍📈 Trade Baiter – Flask + React Paper-Trading & AI Insight Platform
 
-Stock Sage is a full-stack web application that helps retail investors **discover, understand, and safely paper-trade** promising equities.  
+Trade Biater is a full-stack web application that helps retail investors **discover, understand, and safely paper-trade** promising equities.  
 It combines:
 
 * **Flask 3.x REST API** – authentication, analytics & Gemini AI orchestration  
